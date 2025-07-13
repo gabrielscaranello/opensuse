@@ -13,8 +13,10 @@ bash "${PWD}/scripts/install-flatpak-packages.sh"
 bash "${PWD}/scripts/install-nvm.sh"
 
 bash "${PWD}/scripts/install-gitflow-cjs.sh"
+bash "${PWD}/scripts/install-gnome-extensions.sh"
 bash "${PWD}/scripts/install-jetbrains-mono.sh"
 bash "${PWD}/scripts/install-lazydocker.sh"
+bash "${PWD}/scripts/install-telegram.sh"
 
 bash "${PWD}/scripts/copy-desktop-config.sh"
 bash "${PWD}/scripts/hide-desktop-apps.sh"
