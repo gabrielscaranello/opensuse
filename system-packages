@@ -29,7 +29,6 @@ google-noto-fonts
 ImageMagick
 kitty
 lazygit
-libgda-6_0-sqlite
 libprotobuf-c1
 loupe
 lua51-devel
@@ -48,6 +47,4 @@ python3-pipx
 python3-virtualenv
 ripgrep
 sqlite3-devel
-typelib-1_0-Gda-6_0
-typelib-1_0-GSound-1_0
 zsh
