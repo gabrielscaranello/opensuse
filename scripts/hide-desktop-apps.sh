@@ -1,6 +1,10 @@
 #! /bin/bash
 
-APPS=()
+APPS=(
+  org.kde.kdeconnect.app
+  org.kde.kdeconnect.sms
+  org.qt.qdbusviewer6
+)
 
 echo "Hiding desktop apps..."
 
