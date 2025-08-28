@@ -21,6 +21,7 @@ gcc
 gcc-c++
 gdu
 ghostscript
+ghostwriter
 gimp
 git
 go
@@ -32,6 +33,7 @@ ImageMagick
 kalk
 kdeconnect-kde
 kitty
+kweather
 lazygit
 libprotobuf-c1
 lua51-devel
