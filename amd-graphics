@@ -1,0 +1,6 @@
+Mesa-vulkan-device-select
+kernel-firmware-amdgpu
+libvulkan1
+libvulkan_radeon
+vulkan-tools
+xf86-video-amdgpu
