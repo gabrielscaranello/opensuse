@@ -16,5 +16,6 @@ git clone --depth 1 -b "$BRANCH" "$GIT_URL" "$WORK_DIR"
 echo "Installing..."
 cd "$WORK_DIR" && make CMAKE_BUILD_TYPE=RelWithDebInfo
 sudo make install && cd "$WORK_DIR" || exit
+sudo ln -sf /usr/local/bin/nvim /usr/bin/nvim
 
 echo "Neovim installed..."
