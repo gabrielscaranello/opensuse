@@ -19,6 +19,7 @@ bash "${PWD}/scripts/install-jetbrains-mono.sh"
 bash "${PWD}/scripts/install-lazydocker.sh"
 bash "${PWD}/scripts/install-nvm.sh"
 bash "${PWD}/scripts/install-neovim.sh"
+bash "${PWD}/scripts/install-firefox.sh"
 
 bash "${PWD}/scripts/copy-desktop-config.sh"
 bash "${PWD}/scripts/hide-desktop-apps.sh"
