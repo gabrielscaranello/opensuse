@@ -1,7 +1,4 @@
 ark
-aspell
-aspell-en
-aspell-pt_BR
 bat
 btop
 calindori
@@ -25,6 +22,7 @@ git
 google-carlito-fonts
 google-noto-coloremoji-fonts
 google-noto-fonts
+hunspell
 ImageMagick
 kalk
 kdeconnect-kde
@@ -33,9 +31,12 @@ kweather
 lazygit
 libprotobuf-c1
 lua51-devel
+lua51-luarocks
 make
 MozillaFirefox
 mtools
+myspell-en
+myspell-pt_BR
 ninja
 okular
 opi
