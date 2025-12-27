@@ -36,6 +36,7 @@ kitty
 kweather
 lazygit
 libprotobuf-c1
+lua51
 lua51-devel
 make
 mtools
@@ -54,5 +55,6 @@ python3-virtualenv
 ripgrep
 spectacle
 sqlite3-devel
+telegram-desktop
 wget
 zsh
