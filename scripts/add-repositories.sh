@@ -10,4 +10,6 @@ for repo in "${REPOS[@]}"; do
   sudo zypper addrepo "$repo"
 done
 
+sudo zypper refresh
+
 echo "Repositories added."
