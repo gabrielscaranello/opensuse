@@ -53,5 +53,5 @@ ripgrep
 rustup
 sqlite3-devel
 wget
-wl-clipboard
+xsel
 zsh
