@@ -6,6 +6,7 @@ DOWNLOAD_URL=https://go.dev/dl/${FILENAME}
 DOWNLOAD_FILE=/tmp/${FILENAME}
 TARGET_DIR=/usr/local
 INSTALL_DIR=${TARGET_DIR}/go
+GO_PACKAGES=$(tr '\n' ' ' <"$PWD/go-packages")
 
 echo "Installing Golang V.${VERSION}..."
 
@@ -17,5 +18,7 @@ wget -c $DOWNLOAD_URL -O $DOWNLOAD_FILE
 
 echo "Extracting..."
 sudo tar -C $TARGET_DIR -xzf $DOWNLOAD_FILE
+
+echo "$GO_PACKAGES" | xargs $INSTALL_DIR/bin/go install
 
 echo "Go installation done"
