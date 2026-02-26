@@ -10,6 +10,9 @@ enable-services:
 hide-desktop-apps:
 	@bash ./scripts/hide-desktop-apps.sh
 
+install-amd-graphics:
+	@bash ./scripts/install-amd-graphics.sh
+
 install-flatpak-apps:
 	@bash ./scripts/install-flatpak-apps.sh
 
@@ -18,6 +21,9 @@ install-gitflow:
 
 install-jetbrains-mono:
 	@bash ./scripts/install-jetbrains-mono.sh
+
+install-last-kernel:
+	@bash ./scripts/install-last-kernel.sh
 
 install-lazydocker:
 	@bash ./scripts/install-lazydocker.sh
