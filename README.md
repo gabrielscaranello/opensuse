@@ -26,9 +26,7 @@ This guide translates my personal installation, with packages that I use in my d
 | `make setup-default-apps`       | Set the default applications for the system.   |
 | `make setup-gtk-theme`          | Apply a custom GTK theme.                      |
 | `make setup-icon-theme`         | Configure the system's icon theme.             |
-| `make setup-look`               | Apply overall desktop look and feel settings.  |
 | `make setup-swap`               | Create and configure the swap file.            |
-| `make setup-wallpaper`          | Set the desktop wallpaper.                     |
 | `make usermode`                 | Apply user-specific configurations.            |
 
 ## Links

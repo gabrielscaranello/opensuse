@@ -52,14 +52,8 @@ setup-gtk-theme:
 setup-icon-theme:
 	@bash ./scripts/setup-icon-theme.sh
 
-setup-look:
-	@bash ./scripts/setup-look.sh
-
 setup-swap:
 	@bash ./scripts/setup-swap.sh
-
-setup-wallpaper:
-	@bash ./scripts/setup-wallpaper.sh
 
 usermode:
 	@bash ./scripts/usermode.sh

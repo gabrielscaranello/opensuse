@@ -23,7 +23,7 @@ bash "${PWD}/scripts/install-firefox.sh"
 
 bash "${PWD}/scripts/copy-desktop-config.sh"
 bash "${PWD}/scripts/hide-desktop-apps.sh"
-bash "${PWD}/scripts/setup-look.sh"
+bash "${PWD}/scripts/setup-cursor-theme.sh"
 # bash "${PWD}/scripts/setup-swap.sh"
 bash "${PWD}/scripts/usermod.sh"
 bash "${PWD}/scripts/enable-services.sh"
