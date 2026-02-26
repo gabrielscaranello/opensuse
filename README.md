@@ -1,6 +1,6 @@
-# Setup openSUSE Tumbleweed by Gabriel Scaranello
+# Setup openSUSE Leap by Gabriel Scaranello
 
-This is my openSUSE Tumbleweed setup. 😍
+This is my openSUSE Leap 16.0 setup. 😍
 
 This guide translates my personal installation, with packages that I use in my daily life. Use as an example, never as an absolute truth! 😉
 
