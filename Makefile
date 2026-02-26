@@ -16,9 +16,6 @@ install-flatpak-apps:
 install-gitflow:
 	@bash ./scripts/install-gitflow-cjs.sh
 
-install-gnome-extensions:
-	@bash ./scripts/install-gnome-extensions.sh
-
 install-jetbrains-mono:
 	@bash ./scripts/install-jetbrains-mono.sh
 
@@ -34,20 +31,11 @@ install-opi-packages:
 install-system:
 	@bash ./scripts/install-system-packages.sh
 
-install-telegram:
-	@bash ./scripts/install-telegram.sh
-
 remove-unused-packages:
 	@bash ./scripts/remove-unused-packages.sh
 
 setup-cursor:
 	@bash ./scripts/setup-cursor-theme.sh
-
-setup-default-apps:
-	@bash ./scripts/setup-default-apps.sh
-
-setup-gtk-theme:
-	@bash ./scripts/setup-gtk-theme.sh
 
 setup-icon-theme:
 	@bash ./scripts/setup-icon-theme.sh
