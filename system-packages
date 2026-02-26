@@ -53,6 +53,7 @@ python3-virtualenv
 ripgrep
 rustup
 sqlite3-devel
+telegram-desktop
 wget
 xsel
 zsh
