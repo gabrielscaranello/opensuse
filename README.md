@@ -18,6 +18,7 @@ This guide translates my personal installation, with packages that I use in my d
 | `make install-jetbrains-mono` | Install the JetBrains Mono Nerd Font.                    |
 | `make install-last-kernel`    | Install last stable kernel from the openSUSE repository. |
 | `make install-lazydocker`     | Install LazyDocker                                       |
+| `make install-lazygit`        | Install LazyGit                                          |
 | `make install-nvm`            | Install Node Version Manager (NVM).                      |
 | `make install-opi-packages`   | Install packages using OPI                               |
 | `make install-system`         | Install core system packages and dependencies.           |

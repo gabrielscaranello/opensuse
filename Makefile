@@ -25,6 +25,9 @@ install-last-kernel:
 install-lazydocker:
 	@bash ./scripts/install-lazydocker.sh
 
+install-lazygit:
+	@bash ./scripts/install-lazygit.sh
+
 install-nvm:
 	@bash ./scripts/install-nvm.sh
 
