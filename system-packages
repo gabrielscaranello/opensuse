@@ -6,6 +6,7 @@ bat
 btop
 calindori
 cargo
+clinfo
 cmake
 curl
 discord
@@ -21,7 +22,6 @@ gcc
 gcc-c++
 gdu
 ghostscript
-ghostwriter
 gimp
 git
 go
@@ -29,6 +29,7 @@ google-carlito-fonts
 google-noto-coloremoji-fonts
 google-noto-fonts
 gwenview
+hunspell
 ImageMagick
 kalk
 kdeconnect-kde
@@ -40,6 +41,8 @@ lua51
 lua51-devel
 make
 mtools
+myspell-en
+myspell-pt_BR
 neovim
 okular
 opi
@@ -57,4 +60,5 @@ spectacle
 sqlite3-devel
 telegram-desktop
 wget
+xsel
 zsh
